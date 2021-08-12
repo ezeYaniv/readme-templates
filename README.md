@@ -17,4 +17,4 @@ Whether or not a user keeps centralized documentation about their learning proce
 
 # Usage
 
-Use the README template for every project, no matter how small or simple to understand the code may be. 
+Use the README template for every project, no matter how small or simple, so future you can quickly review and understand what it accomplished.
